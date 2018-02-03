@@ -1,1 +1,3 @@
-# JavaScript_Game_Of_Life
+# JavaScript Game Of Life
+
+
