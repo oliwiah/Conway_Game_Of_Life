@@ -9,6 +9,7 @@ You can read more about the game [here](https://en.wikipedia.org/wiki/Conway's_G
 * JavaScript (ES5 standard)
 * CSS
 * Webpack
+* JSON
 
 ## How to play
 
