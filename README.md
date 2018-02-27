@@ -17,6 +17,7 @@ You can read more about the game [here](https://en.wikipedia.org/wiki/Conway's_G
 3. Press **Play** and see how it lives.
 4. By putting your mouse over the board, you create new live cells.
 5. You can pause anytime by pressing **Pause** button.
+6. When there are only dead cells left, game ends :end:
 
 ### Rules
 
@@ -32,4 +33,4 @@ Any dead cell with exactly three live neighbours becomes a live cell, as if by r
 
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed—births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick (in other words, each generation is a pure function of the preceding one). The rules continue to be applied repeatedly to create further generations.
 
-[PREVIEW THE GAME](https://oliwiah.github.io/JS_Conway_Game_Of_Life/)
+[PLAY THE GAME](https://oliwiah.github.io/JS_Conway_Game_Of_Life/)
